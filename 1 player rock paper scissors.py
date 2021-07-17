@@ -1,4 +1,3 @@
-
 # Rock paper scissors
 
 import random
@@ -66,7 +65,3 @@ elif computer_count < user_count:
     print("You won the tournament!")
 else:
     print("It's a tie!")
-
-    
-
-    
